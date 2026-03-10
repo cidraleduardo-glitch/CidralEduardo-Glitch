@@ -1,8 +1,3 @@
-## Hi there 👋
-
-<!--
-**cidraleduardo-glitch/CidralEduardo-Glitch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 -Cruzeirense 
 
 -jogador de Brawl Stars desde 8/2/25
